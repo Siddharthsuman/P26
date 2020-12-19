@@ -22,7 +22,7 @@ function setup() {
 	//Create the Bodies Here.
 	ground=new Ground(width/2,780,1000,20);
 
-	dustbin1=new Dustbin(710,670,20,190)
+	dustbin1=new Dustbin(710,670,20.1,190)
 	dustbin2=new Dustbin(880,660,20,190)
 	dustbin3=new Dustbin(790,760,170,20)
    paperBall=new Paper(50,290,75,25);
